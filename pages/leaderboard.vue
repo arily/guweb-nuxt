@@ -1,6 +1,6 @@
 <template>
   <div id="page">
-    <HeaderHome />
+    <HeaderMain title="Leaderboard" subtitle="???" headerimg="leaderboard" />
   </div>
 </template>
 
